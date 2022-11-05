@@ -1,0 +1,14 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.marco{
+    background-color: #0076ec;
+    border: 1px solid #dee2e6;
+    width: 90%;
+    height: 600px;
+    border-radius: .25rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
